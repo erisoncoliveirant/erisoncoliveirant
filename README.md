@@ -2,10 +2,8 @@
 
 Sou **Erison Oliveira**, um analista de sistemas que mora em Rondônia, Brasil.
 
-Inspirado nas tecnologias da web, **sempre busco contribuindo para a comunidade** com [projects](https://github.com/erisoncoliveiran).
+Inspirado nas tecnologias da web, **sempre busco contribuindo para a comunidade** com [projetos](https://github.com/erisoncoliveiran).
 
-Atualmente, trabalho na **[WADT ENGENHARIA](#)**. 
-(**então não hesite em me avisar se quiser se juntar a nós também 😎**)
 <br><br><br>
 Para saber mais, siga-me no  **[Instagram](https://www.instagram.com/erisoncoliveira)**, **[Telegram](https://t.me/ErisonCOliveiraNT)**, and **[LinkedIn](https://www.linkedin.com/in/erison-oliveira-70038396/)**.
 <br><br>
